@@ -1,4 +1,4 @@
-# Xfit Fitness server
+# Fitness Accessories and Equipment server
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-https://github.com/sakibsarkar/XFit_server.git
+https://github.com/hasan-fahad/Fitness-Accessories-and-Equipment-Server.git
 
 ```
 
